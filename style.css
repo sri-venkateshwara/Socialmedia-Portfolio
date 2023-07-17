@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,700;1,300;1,400&family=Montserrat:ital,wght@0,100;0,300;0,600;1,200;1,300&family=Quicksand:wght@300;400&family=Satisfy&display=swap');
+body{
+    
+    background: linear-gradient(135deg, #F4E6FF, #D8C6FF);
+}
+
+.box{
+    padding: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: QUICKSAND;
+    
+}
+.container{
+    padding: centre;
+    text-align: center;
+ 
+}
+.part{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    
+}
+h4{
+    background: linear-gradient(45deg, #FF5F6D,#fa7e1e, #d62976, #962fbf, #4f5bd5); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;
+}
+
+.icon1{
+    
+        background: linear-gradient(45deg, #FF5F6D,#fa7e1e, #d62976, #962fbf, #4f5bd5); 
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+.text1{
+   font-family: Quicksand;
+   font-size:medium
+}
+a{
+    border-bottom: solid 1px;
+    font-family:Quicksand;
+    margin-bottom: 5px;
+}
+.icon2{
+    background: linear-gradient( #4267B2,#4267B2,white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.face{
+    background: linear-gradient(#4267B2,#898F9C,white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;
+}
+.icon3{
+    background: linear-gradient( #FFFC00,#FFFC00); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.snap{
+    background: linear-gradient(#FFFC00,rgb(196, 196, 93),white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;    
+}
+.icon4{
+    background: linear-gradient( #3e65cf,#c71610,#f2a60c,#3b60c4,#08851b,white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mail{
+    background: linear-gradient(#3e65cf,#c71610,#f2a60c,#3b60c4,#08851b,white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;
+}
+.icon5{
+    background: linear-gradient(#229ED9,#229ED9); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tele{
+    background: linear-gradient(#229ED9,#229ED9,white); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;   
+}
+.icon6{
+    background: linear-gradient(#4ac959,#4ac959,#ffffff); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.whats{
+    background: linear-gradient(#4ac959,#4ac959,#ffffff); 
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     height: 32px;
+     font-family:Quicksand;   
+}
+
